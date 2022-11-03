@@ -63,9 +63,9 @@ fun main() {
 //    println("I am in cohort $stringInput2")
 
 
-
-    val reader = Scanner(System.`in`)
-    print("Enter a number -> ")
-    var number:Int= reader.nextInt()
-    println("You entered: $number")
+//
+//    val reader = Scanner(System.`in`)
+//    print("Enter a number -> ")
+//    var number:Int= reader.nextInt()
+//    println("You entered: $number")
 }
